@@ -72,3 +72,13 @@
 }
 
 /* end of animation */
+@media screen and (max-width: 600px) {
+  .Board,
+  .Board-title {
+    width: 90vw;
+  }
+  .neon-orange,
+  .neon-blue {
+    font-size: 4rem;
+  }
+}
